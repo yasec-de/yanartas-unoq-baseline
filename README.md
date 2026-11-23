@@ -6,9 +6,6 @@ Pillowbox](https://ashen.yasec.de/yanartas-pillowbox) mesh that adapts the mesh'
 Q](https://docs.arduino.cc/hardware/uno-q/) shield as a super simple, baseline design for
 [`ashen-firmware`](https://git.yasec.de/yasec/ashen-firmware) development.
 
-> [!NOTE]
-> This hardware has 
-
 License
 -------
 
