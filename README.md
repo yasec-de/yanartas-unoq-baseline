@@ -1,6 +1,8 @@
 Yanartas "unoq-baseline" Pillowbox Payload
 ==========================================
 
+<img src="./yanartas-unoq-baseline-side-by-side.jpg" alt="Photo of the plain looking arduino uno shield PCB next to an arduino uno Q board" max-width="400px">
+
 This repository contains *unoq-baseline*, a payload for a [Yanartas
 Pillowbox](https://ashen.yasec.de/yanartas-pillowbox) mesh that adapts the mesh's connectors to an [arduino uno
 Q](https://docs.arduino.cc/hardware/uno-q/) shield as a super simple, baseline design for
