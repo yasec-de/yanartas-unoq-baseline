@@ -13,7 +13,7 @@ License
 
 © 2026 Dr.-Ing. Jan Sebastian 'jaseg' Götte
 
-This project is licensed [CERN-OHL-S v2`](https://ohwr.org/cern_ohl_s_v2.txt).
+This project is licensed [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt).
 
 LLM/AI Policy
 -------------
